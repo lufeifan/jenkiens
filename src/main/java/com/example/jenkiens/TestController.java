@@ -16,7 +16,7 @@ public class TestController {
         return "test3";
     }
 
-    @GetMapping("/test4")
+    @GetMapping("/666")
     public String test3() {
         return "test4";
     }
