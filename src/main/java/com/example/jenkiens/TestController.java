@@ -18,6 +18,6 @@ public class TestController {
 
     @GetMapping("/test4")
     public String test3() {
-        return "test44";
+        return "test4";
     }
 }
