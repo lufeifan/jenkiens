@@ -18,6 +18,6 @@ public class TestController {
 
     @GetMapping("/666")
     public String test3() {
-        return "123";
+        return "678";
     }
 }
